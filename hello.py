@@ -4,7 +4,7 @@ Simple Hello World script
 """
 
 def main():
-    print("Hello, World!")
+    print("Hello, universe!")
 
 if __name__ == "__main__":
     main()
